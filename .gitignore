@@ -1,2 +1,4 @@
 epc_simulator.egg-info
 uv.lock
+epc/__pycache__/
+tests/__pycache__/
